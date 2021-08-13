@@ -7,7 +7,7 @@ import Portada from './components/Portada.vue'
 import Post from './components/Post.vue'
 import SobreMi from './components/SobreMi.vue'
 import NotFound from './components/NotFound.vue'
-import { post } from 'jquery'
+
 
 Vue.use(Router)
 
